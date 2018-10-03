@@ -17,5 +17,6 @@
             <p align="center"> File Name: <input type="text" name="fname"><br/>
                 <input type="submit" value="delete"></p>
         </form>
+test
     </body>
 </html>
